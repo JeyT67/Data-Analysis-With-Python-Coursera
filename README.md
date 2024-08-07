@@ -1,4 +1,4 @@
 █▀▀ █▀█ █░█ █▀█ █▀ █▀▀  
 █▄▄ █▄█ █▄█ █▀▄ ▄█ ██▄
 
-DATA ANALYSIS WITH PYTHON COURSERA
+DATA ANALYSIS WITH PYTHON (COURSERA)
